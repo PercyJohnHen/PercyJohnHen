@@ -9,7 +9,4 @@
 ![](https://streak-stats.demolab.com/?user=PercyJohnHen&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PercyJohnHen&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=PercyJohnHen&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
